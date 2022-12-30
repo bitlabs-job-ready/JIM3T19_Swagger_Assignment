@@ -1,0 +1,15 @@
+Create Employee class with following attributes
+1. Eid
+2. ename
+3. gender
+4. mobile
+5. email
+6. city
+
+and create API on Employee object , like create employee information, reading, updating and deleting employee records.
+
+1. Add Swagger to your project: You can use the Swagger library or the Swagger UI to add Swagger to your project. You will need to configure the library or UI to generate the API documentation for your project.
+
+2. Write API documentation: Use Swagger's annotations to document your API's endpoints, request and response examples, and authentication information. Make sure to include clear and concise descriptions of each endpoint's purpose and behavior.
+
+Test your API with Swagger UI: Use Swagger UI's testing tool to send requests to your API's endpoints and verify that the responses are correct. This can be useful for debugging and developing your API.
